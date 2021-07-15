@@ -2217,7 +2217,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/CupcakeDefi ",
+        href: "https://twitter.com/CupcakeDefi",
     },
     {
         label: "Reddit",
